@@ -19,7 +19,7 @@ class MyApp extends StatelessWidget {
           accentColor: const Color(0xff263238),
 
           // Define the default font family.
-          // fontFamily: 'Rowdies',
+          fontFamily: 'Rowdies',
 
           // Define the default TextTheme. Use this to specify the default
           textTheme: const TextTheme(
